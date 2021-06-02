@@ -30,7 +30,7 @@ twitter_username: tsmt09
 github_username:  tsmt09
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.
